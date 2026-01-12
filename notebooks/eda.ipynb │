@@ -1,0 +1,15 @@
+df.head()
+
+df.info()
+
+df.describe()
+
+missing values
+
+correlation heatmap
+
+age vs cardio
+
+gender vs cardio
+
+BMI distribution
